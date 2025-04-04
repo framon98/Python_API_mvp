@@ -1,0 +1,9 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# virtualenv
+.venv/
+
+# Reflex specific
+.reflex/
+__pypackages__/
